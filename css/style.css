@@ -8,7 +8,7 @@
     --cor4: #5DA54A;
     --cor5: #936e5564;
     --texttitle1: 1.6em;
-    --texttitle2: 1.3em;
+    --texttitle2: 1.35em;
     --text: 1.0em;
 }
 
@@ -28,6 +28,7 @@ h1 {
 
 h2 {
     padding: 8px 10px 0 10px;
+    margin-left: 7px;
     font-size: var(--texttitle2);
 }
 
