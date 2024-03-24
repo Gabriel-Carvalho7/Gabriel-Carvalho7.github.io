@@ -3,4 +3,4 @@ const addCheck = (tgt) => {
     console.log(test);
 }
 
-addEventListener('click', addCheck);
+addEventListener('click', addCheck); //será?
